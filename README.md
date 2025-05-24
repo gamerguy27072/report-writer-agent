@@ -1,4 +1,4 @@
-# Report/Essay Writter Agent
+# AI Report/Essay Writter Agent
 
 An advanced AI agent built with **LangGraph** designed to automate the process of researching, outlining, and drafting essays based on a given prompt.
 
